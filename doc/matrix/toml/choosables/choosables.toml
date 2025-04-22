@@ -235,6 +235,27 @@ meta_name = "languages"
 meta_value = "eng"
 
 [[choosable]]
+catalogue_id = "Parch Linux"
+bg_color = "#5294E2"
+fg_color = "white"
+[[choosable.meta]]
+meta_type = "link"
+meta_name = "website"
+meta_value = "https://parchlinux.com/en"
+[[choosable.meta]]
+meta_type = "flag"
+meta_name = "country"
+meta_value = "ir"
+[[choosable.meta]]
+meta_type = "date"
+meta_name = "age"
+meta_value = "2021-08-19"
+[[choosable.meta]]
+meta_type = "hidden"
+meta_name = "languages"
+meta_value = "eng"
+
+[[choosable]]
 catalogue_id = "rhel"
 bg_color = "#cf0000"
 fg_color = "white"
